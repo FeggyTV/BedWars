@@ -1,8 +1,8 @@
 name: Bedwars
-version: 4.1.0
-api: 1.14.0
-main: Bluplayz\BedWars
-author: NetherTechnology
+verze     : 4.1.0
+api     : 3.2.0
+hlavní            : Bluplayz \ BedWars
+autor    : NetherTechnology
 commands:
     Bedwars:
         description: Bedwars Main Command
